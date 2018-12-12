@@ -24,7 +24,7 @@
 #include <mav_planning_msgs/PolynomialTrajectory4D.h>
 #include <mav_planning_msgs/conversions.h>
 
-#include <mav_trajectory_generation/trajectory.h>
+#include <mav_tube_trajectory_generation/trajectory.h>
 
 namespace mav_trajectory_generation {
 

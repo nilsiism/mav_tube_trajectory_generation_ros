@@ -26,7 +26,7 @@
 #include <Eigen/Core>
 #include <Eigen/StdVector>
 
-#include <mav_trajectory_generation/trajectory.h>
+#include <mav_tube_trajectory_generation/trajectory.h>
 
 #include "input_constraints.h"
 

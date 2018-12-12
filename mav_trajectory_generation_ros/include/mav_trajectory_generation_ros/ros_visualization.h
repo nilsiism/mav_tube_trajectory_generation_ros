@@ -25,8 +25,8 @@
 #include <mav_visualization/marker_group.h>
 #include <visualization_msgs/MarkerArray.h>
 
-#include <mav_trajectory_generation/trajectory.h>
-#include <mav_trajectory_generation/vertex.h>
+#include <mav_tube_trajectory_generation/trajectory.h>
+#include <mav_tube_trajectory_generation/vertex.h>
 
 namespace mav_trajectory_generation {
 

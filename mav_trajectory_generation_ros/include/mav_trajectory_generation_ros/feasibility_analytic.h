@@ -23,7 +23,7 @@
 
 #include <cmath>
 
-#include <mav_trajectory_generation/segment.h>
+#include <mav_tube_trajectory_generation/segment.h>
 
 #include "mav_trajectory_generation_ros/feasibility_base.h"
 

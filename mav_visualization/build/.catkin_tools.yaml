@@ -1,0 +1,6 @@
+devel_space: /home/nils/swap/src/mav_tube_trajectory_generation_ros/mav_visualization/devel
+install: false
+install_space: /home/nils/swap/src/mav_tube_trajectory_generation_ros/mav_visualization/install
+profile: default
+source_space: /home/nils/swap/src/mav_tube_trajectory_generation_ros/mav_visualization/src
+workspace: /home/nils/swap/src/mav_tube_trajectory_generation_ros/mav_visualization

@@ -22,7 +22,7 @@
 
 #include <limits>
 
-#include <mav_trajectory_generation/extremum.h>
+#include <mav_tube_trajectory_generation/extremum.h>
 std::vector<int> kPosDim = {0, 1, 2};
 
 namespace mav_trajectory_generation {

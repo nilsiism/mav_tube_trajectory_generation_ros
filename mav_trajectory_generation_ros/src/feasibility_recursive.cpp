@@ -25,7 +25,7 @@
 
 #include <Eigen/Core>
 
-#include <mav_trajectory_generation/motion_defines.h>
+#include <mav_tube_trajectory_generation/motion_defines.h>
 
 namespace mav_trajectory_generation {
 FeasibilityRecursive::Settings::Settings() : min_section_time_s_(0.05) {}

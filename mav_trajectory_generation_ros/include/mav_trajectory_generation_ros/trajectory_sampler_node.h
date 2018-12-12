@@ -30,8 +30,8 @@
 #include <std_srvs/Empty.h>
 #include <trajectory_msgs/MultiDOFJointTrajectory.h>
 
-#include <mav_trajectory_generation/polynomial.h>
-#include <mav_trajectory_generation/trajectory_sampling.h>
+#include <mav_tube_trajectory_generation/polynomial.h>
+#include <mav_tube_trajectory_generation/trajectory_sampling.h>
 #include <mav_trajectory_generation_ros/ros_conversions.h>
 
 class TrajectorySamplerNode {
